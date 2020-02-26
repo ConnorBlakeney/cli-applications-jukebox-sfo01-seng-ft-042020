@@ -28,6 +28,7 @@ def run(songs)
       exit_jukebox
       break
     when "play"
+      play(songs)
       
 end 
 
