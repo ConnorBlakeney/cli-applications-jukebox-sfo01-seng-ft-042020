@@ -19,4 +19,6 @@ def help
   puts  "- exit : exits this program"
 end 
 
-
+def run(songs)
+  
+end 
