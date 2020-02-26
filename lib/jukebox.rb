@@ -50,7 +50,7 @@ def exit_jukebox
 end 
 
 def play(songs)
-  
+  puts "Enter the name "
 end 
 
 
