@@ -35,6 +35,8 @@ def run(songs)
       list(songs)
     else 
       puts "Invalid entry"
+    end 
+  end 
 end 
 
 def exit_jukebox
