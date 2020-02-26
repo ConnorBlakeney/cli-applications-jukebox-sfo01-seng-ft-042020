@@ -21,5 +21,7 @@ end
 
 def run(songs)
   while true do
-    puts ""
+    puts "Please enter a command: "
+    input = gets.chomp 
+    
 end 
