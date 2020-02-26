@@ -23,5 +23,26 @@ def run(songs)
   while true do
     puts "Please enter a command: "
     input = gets.chomp 
-    
+    case input
+    when 
 end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
