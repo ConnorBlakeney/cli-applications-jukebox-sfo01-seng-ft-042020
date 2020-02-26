@@ -31,7 +31,8 @@ def run(songs)
       play(songs)
     when "help"
       help
-    when   
+    when "list"
+      list(songs)
 end 
 
 def exit_jukebox
