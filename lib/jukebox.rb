@@ -26,7 +26,8 @@ def run(songs)
     case input
     when "exit"
       exit_jukebox
-    when 
+      break
+    when  
 end 
 
 def exit_jukebox
