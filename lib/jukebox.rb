@@ -26,10 +26,11 @@ def run(songs)
     case input
     when "exit"
       exit_jukebox
+    when 
 end 
 
 def exit_jukebox
-  puts "Goodbye!"
+  puts "Goodbye"
 end 
 
 
